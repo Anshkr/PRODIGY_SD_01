@@ -27,4 +27,4 @@ This is a simple yet user-friendly **Temperature Converter** desktop application
 2. Save the following code in a file named `temperature_converter.py`
 3. Run the script:
    ```bash
-   python temperature_converter.py
+   python Task_1.py
